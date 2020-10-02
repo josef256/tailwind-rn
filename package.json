@@ -6,7 +6,7 @@
 	"repository": "josef256/tailwind-rn",
 	"author": {
 		"name": "Hanchaoui Youssef",
-		"email": "hanchaoui.youssef256@gmail.com",
+		"email": "hanchaoui.youssef256@gmail.com"
 	},
 	"bin": {
 		"create-tailwind-rn": "cli.js"
